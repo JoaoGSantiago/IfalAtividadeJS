@@ -67,7 +67,7 @@ function PositivoNegativo() {
 
 
 // 6) PAR_IMPAR
-function executarParImpar() {
+function ParImpar() {
   let x = parseInt(prompt("Digite um número:"), 10);
 
   if (x % 2 === 0) {
